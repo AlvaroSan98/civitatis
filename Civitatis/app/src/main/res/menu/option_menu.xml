@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ascending_name"
+        android:title="@string/ascending_name"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/descending_name"
+        android:title="@string/descending_name"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ascending_modified"
+        android:title="@string/ascending_modified"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/descending_modified"
+        android:title="@string/descending_modified"
+        app:showAsAction="never"/>
+
+</menu>

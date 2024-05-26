@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Civitatis</string>
+    <string name="title_not_available">Title not available</string>
+    <string name="description_not_available">Description not available</string>
+    <string name="comics_not_available">Comics not available</string>
+    <string name="series_not_available">Series not available</string>
+    <string name="stories_not_available">Stories not available</string>
+    <string name="urls_not_available">URLs not available</string>
+    <string name="description">Description</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="urls">URLs</string>
+    <string name="ascending_name">Name (Ascending)</string>
+    <string name="descending_name">Name (Descending)</string>
+    <string name="ascending_modified">Modified (Ascending)</string>
+    <string name="descending_modified">Modified (Descending)</string>
+</resources>
